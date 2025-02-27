@@ -2155,8 +2155,8 @@ html {
   bottom: 40px;
 }
 
-.bottom-\[800px\] {
-  bottom: 800px;
+.bottom-\[955px\] {
+  bottom: 955px;
 }
 
 .left-0 {
@@ -2243,12 +2243,20 @@ html {
   top: 98px;
 }
 
-.bottom-\[8009px\] {
-  bottom: 8009px;
+.bottom-\[900px\] {
+  bottom: 900px;
 }
 
-.bottom-\[955px\] {
-  bottom: 955px;
+.bottom-\[850px\] {
+  bottom: 850px;
+}
+
+.bottom-\[800px\] {
+  bottom: 800px;
+}
+
+.bottom-\[780px\] {
+  bottom: 780px;
 }
 
 .isolate {
